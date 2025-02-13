@@ -1,0 +1,132 @@
+html, body{
+    height: 100%;
+    width: 100%;
+    max-width: 1700px;
+}
+
+.nav-stanga{
+    margin-left: 155px;
+}
+
+.nav-mijloc{
+    margin-top: 15px;
+    margin-left: 90px;
+}
+
+.nav-dreapta{
+    margin-top: 15px;
+    margin-left: 500px;
+    margin-right: 145px;
+}
+
+.link{
+    text-decoration: none;
+    color: black;
+}
+
+.service-section{
+    background-color: #2F303A;
+    margin-top: 10px;
+    height: 500px;
+    width: 100%;
+}
+
+.service-section-title{
+    color:#FFFFFF;
+    padding-left: 400px;
+    padding-top: 150px;
+    font-size: 44px;
+
+    width: 700px;
+    text-align: center;
+}
+
+.request-button{
+    background-color:#2196F3;
+    color: #FFFFFF;
+    margin-left: 670px;
+    height: 50px;
+    font-size: 16px;
+}
+
+.details-section{
+    display: flex;
+    margin-top: 40px;
+}
+
+.attention-section{
+    margin-left: 215px;
+    width: 270px;
+    height: 100px;
+}
+
+.punctuality-section{
+    width: 270px;
+}
+
+.planning-section{
+    width: 270px;
+}
+
+.modern-section{
+    width: 270px;
+}
+
+.team-section{
+    background-color: #F5F4FA;
+    height: 648px;
+}
+
+.members-section{
+    display: flex;
+    height: 368px;
+    margin-top: 50px
+}
+
+/*.first-member{
+
+}
+
+.second-member{
+
+}
+
+.third-member{
+
+}
+
+.fourth-member{
+
+}*/
+
+.picture{
+    height: 270px;
+    width: 260px;
+    border: none;
+}
+
+.member-description{
+    background-color: #FFFFFF;
+    height: 368px;
+    margin-left: 30px;
+}
+
+.member-name{
+    text-align: center;
+}
+
+.member-role{
+    color: #757575;
+    text-align: center;
+}
+
+.contact-section{
+    background-color: #2F303A;
+    height: 251px;
+}
+
+.contact-details{
+    padding-top: 60px;
+    padding-left: 215px;
+    height: 150px;
+}
